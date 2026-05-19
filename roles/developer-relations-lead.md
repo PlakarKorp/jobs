@@ -1,7 +1,7 @@
 # Developer Relations Lead
 
-**Location:** Remote / Paris · **Type:** Full-time · **Stage:** Pre-Series A  
-**Contact:** careers@plakar.io
+**Location:** North America (Remote) · **Type:** Full-time · **Stage:** Pre-Series A  
+**Contact:** victor@plakar.io
 
 ---
 
@@ -20,13 +20,13 @@ We are building from scratch in the open, and we need our first Developer Relati
 You are Plakar's bridge to the DevOps/SRE world. You own the community, the content, and the feedback loop back to product — end to end.
 
 **Community & Advocacy**  
-Run Plakar's GitHub community, build and moderate the Discord, and represent us at KubeCon, SREcon, HashiConf, and FOSDEM with talks and workshops that make practitioners want to try Plakar the same day.
+Run Plakar's community, build and moderate Discord and GitHub engagement, and represent us at key industry events such as KubeCon, SREcon, HashiConf, and FOSDEM with talks and workshops that make practitioners want to try Plakar the same day.
 
-**Open-Source Adoption**  
-Own the first-run experience — README to working backup in under 10 minutes. Manage the contributor funnel from good-first-issues to core maintainers. Ship integrations where DevOps/SRE teams already live: Kubernetes, GitHub Actions, Terraform, Prometheus.
+**Open-Source Adoption & Developer Experience**  
+Own the first-run experience — README to working backup in under 10 minutes. Manage the contributor funnel from good-first-issues to core maintainers. For strategic integrations (Kubernetes,PostgreSQL, Terraform, etc), you drive the communication and positioning directly. For the long tail — S3-compatible NAS devices, IMAP, Synology, Raspberry Pi, home-lab stacks — you design and run community programs (bounties, contributor sprints, good-first-issue campaigns) that make the ecosystem build itself.
 
 **Technical Content**  
-2 high-quality technical posts per month (architecture deep dives, benchmarks, comparison guides). A demo video library. A developer newsletter. Documentation that does not embarrass the engineering team.
+Own the technical narrative around Plakar's architecture, integrations, and ecosystem. Write and produce content that makes practitioners understand why Plakar is different and want to try it — architecture deep dives, integration guides, benchmark write-ups. Quality and strategic relevance over volume.
 
 **Product Feedback**  
 Turn community signals into a monthly structured report for the founding team. Run beta programs for new features. Be the voice of the developer inside Plakar.
@@ -43,8 +43,9 @@ Turn community signals into a monthly structured report for the founding team. R
 
 **Strong signals**
 - You have grown a technical community from the ground up, not just managed an established one.
+- You have run community programs — bounties, contributor campaigns, ambassador programs — that actually shipped integrations or moved adoption metrics.
 - You have content in the wild — posts, talks, demos — that demonstrably moved a metric.
 - You shipped when it mattered. A good tutorial today beats a perfect one next quarter.
 
 **How to apply**  
-Send a short note + anything that shows your work (writing, talks, GitHub, community projects) to **careers@plakar.io** with subject: `DevRel Lead — [Your Name]`. We read everything and reply to everyone.
+Send a short note + anything that shows your work (writing, talks, GitHub, community projects) to **victor@plakar.io** with subject: `DevRel Lead — [Your Name]`. We read everything and reply to everyone.
