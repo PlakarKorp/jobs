@@ -24,7 +24,7 @@ Headquartered in Paris. Remote-friendly. Backed by a **$3M pre-seed** led by [Se
 
 ## How to Apply
 
-Each role file has a direct contact and application instructions. In general: send a short note and anything that shows your work to **careers@plakar.io**. We read everything. We reply to everyone.
+Each role file has a direct contact and application instructions. In general: send a short note and anything that shows your work to **hello@plakar.io**. We read everything. We reply to everyone.
 
 ---
 
