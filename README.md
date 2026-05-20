@@ -10,7 +10,7 @@ Open roles at [Plakar](https://plakar.io). Job descriptions live here so they're
 
 | Role | Team | Location | Status |
 |------|------|----------|--------|
-| [Developer Relations Lead](./roles/developer-relations-lead.md) | Community & Growth | Remote / Paris | 🟢 Open |
+| [Developer Relations Lead](./roles/developer-relations-lead.md) | Community & Growth | Remote / North America | 🟢 Open |
 
 ---
 
