@@ -11,7 +11,7 @@ Open roles at [Plakar](https://plakar.io). Job descriptions live here so they're
 | Role                                                            | Team               | Location               | Status  |
 | --------------------------------------------------------------- | ------------------ | ---------------------- | ------- |
 | [Developer Relations Lead](./roles/developer-relations-lead.md) | Community & Growth | Remote / North America | 🟢 Open |
-| [Chief of Staff](./roles/chief-of-staff)                        | General Management | Remote / Europe        | 🟢 Open |
+| [Chief of Staff](./roles/chief-of-staff.md)                     | General Management | Remote / Europe        | 🟢 Open |
 
 ---
 
