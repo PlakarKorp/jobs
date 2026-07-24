@@ -1,5 +1,7 @@
 # Chief of Staff
 
+> **Status: ✅ Filled (Hired).** This role is closed. Archived here for reference.
+
 Location: Europe (Remote) · Type: Full-time · Stage: Pre-Series A
 
 Contact: founders@plakar.io
