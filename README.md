@@ -1,7 +1,5 @@
 # Plakar Jobs
 
-> **Open Resilience as Code.** Cloud-native backups for enterprises preparing for inevitable breach.
-
 Open roles at [Plakar](https://plakar.io). Job descriptions live here so they're easy to find, link, fork, and share.
 
 ---
