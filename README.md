@@ -23,7 +23,7 @@ Open roles at [Plakar](https://plakar.io). Job descriptions live here so they're
 
 ## Who We Are
 
-Plakar is the open resilience-as-code platform for fast-growing companies and enterprises preparing for inevitable breach. Built around **Kloset** (an immutable, encrypted deduplication engine) and a Kubernetes-native control plane, Plakar makes complete cyber-resilience declarative, economically achievable, and yours to control.
+Plakar is the open-source data resilience platform that lets teams back up anything, from files and databases to Kubernetes, virtual machines, object storage and SaaS, into one open, portable format they own. Built around Kloset, an immutable, encrypted, deduplicating storage format, Plakar makes complete, zero-trust coverage affordable and lets anyone back up any data, anywhere, on infrastructure they own, then browse or restore it without vendor lock-in. Free and open source under the ISC license, Plakar is a member of the Linux Foundation and the CNCF. Learn more at plakar.io.
 
 Headquartered in Paris. Remote-friendly. Backed by a **$3M pre-seed** led by [Seedcamp](https://seedcamp.com), with Kima Ventures, HelloWorld, and angels including Olivier Pomel (Datadog), Solomon Hykes (Docker), and Alexandre Yazdi (Voodoo).
 
